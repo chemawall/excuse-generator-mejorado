@@ -11,4 +11,4 @@ function onLoad(){
     
     return `${who[randomNumber(who.length)]} ${what[randomNumber(what.length)]} ${when[randomNumber(when.length)]}`;  
     }
-console.log(onLoad());
+
